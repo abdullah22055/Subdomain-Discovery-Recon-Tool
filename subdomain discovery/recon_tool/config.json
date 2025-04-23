@@ -1,0 +1,5 @@
+{
+    "VIRUSTOTAL_API_KEY": "your virustotal api key",
+    "SHODAN_API_KEY": "your shodan api key",
+    "GITHUB_TOKEN": "your github token"
+}
