@@ -37,15 +37,7 @@ Results are saved in the `results` directory in JSON format:
 - Live subdomains
 - Crawled paths and parameters
 - Scan summary and statistics
-Project Structure
-
-recon_tool/
-├── main.py                 
-├── config.json            
-└── modules/
-    ├── subdomain_enum.py  
-    ├── live_checker.py    
-    └── crawler.py         
+         
 # Disclaimer
 
 This tool is for educational and ethical testing purposes only. Users are responsible for ensuring compliance with applicable laws and regulations.
